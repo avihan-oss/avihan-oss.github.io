@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-malaria-parasite-detection",
+          title: 'Malaria Parasite Detection',
+          description: "Designing CNN architectures for high-accuracy detection.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/malaria_detection/";
             },},{
         id: 'social-cv',
         title: 'CV',
