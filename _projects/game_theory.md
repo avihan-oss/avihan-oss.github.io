@@ -2,7 +2,7 @@
 layout: page
 title: Game Theory & Dynamical Systems
 description: Analyzing the stability of Nash Equilibria using Gradient, Replicator, and BNN differential dynamics.
-img: assets/img/game_theory.jpg
+img: /assets/img/game_theory.jpg
 importance: 3
 category: work
 ---
