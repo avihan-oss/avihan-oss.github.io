@@ -22,6 +22,9 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: avihan-oss
+email: avinash23@iisertvm.ac.in  # Your student email
+linkedin_username: avinash-chauhan-0896b4282        # Add this if you have one (just the username part)
+
 
 url: https://avihan-oss.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
