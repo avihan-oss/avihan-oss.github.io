@@ -32,7 +32,7 @@ My research lies at the intersection of **Game Theory**, **Differential Equation
 * **Tools:** PyTorch, TensorFlow, Scikit-learn, Git/GitHub
 * **Interests:** Numerical Analysis, Stochastic Processes, AI Systems
 
-* <br>
+  <br>
 <div style="text-align: center;">
   <a href="/assets/pdf/cv.pdf" target="_blank">
     <button style="background-color:#333; color:white; padding:12px 24px; border:none; border-radius:6px; cursor:pointer; font-weight:bold; font-size:16px;">
