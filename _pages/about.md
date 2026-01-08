@@ -2,20 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Researcher @ IISER TVM. <br> Bridging Mathematical Theory and AI Engineering.
+subtitle: <a href='#'>Research Engineer</a> | Mathematical Modeler | Open Source Contributor
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false 
-news: true 
-selected_papers: false 
+  image_circular: false # Change to true if you want a circle crop
+  address: >
+    <p>IISER Thiruvananthapuram</p>
+    <p>Kerala, India</p>
+
+news: true  # Includes a list of news items
+selected_papers: false # Includes a list of papers marked as "selected={true}"
+social: true  # Includes social icons at the bottom of the page
 ---
 
-I am a 3rd-year **Mathematics** student at [IISER Thiruvananthapuram](https://www.iisertvm.ac.in/), specializing in **Computational Mathematics** and **Machine Learning**.
+## **Bridging Theory & Code**
 
-My work focuses on **Research Engineering**—taking theoretical models (like Game Theory and Differential Equations) and implementing them into scalable code.
+I am a **Mathematics Major** at [IISER TVM](https://www.iisertvm.ac.in/), where I translate abstract mathematical theories into powerful, scalable AI systems. 
 
-Currently, I am working on:
-* **Game Theory:** Solving Nash Equilibrium in coalition games.
-* **Computer Vision:** Malaria parasite detection using CNNs.
-* **Data Science:** Customer segmentation using clustering algorithms.
+My research lies at the intersection of **Game Theory**, **Differential Equations**, and **Machine Learning**. I don't just solve equations; I build computational engines that can simulate them.
+
+### **Current Focus**
+* 🤖 **Game Theory:** Developing algorithms to solve Nash Equilibrium in complex coalition games.
+* 🧬 **Bio-Computing:** designing CNN architectures for high-accuracy Malaria parasite detection.
+* 📊 **Data Science:** Engineering clustering models for large-scale customer segmentation.
+
+### **Technical Arsenal**
+* **Languages:** Python, C++, MATLAB, LaTeX
+* **Tools:** PyTorch, TensorFlow, Scikit-learn, Git/GitHub
+* **Interests:** Numerical Analysis, Stochastic Processes, AI Systems
+
+---
+*Open to research collaborations and engineering roles for Summer 2026.*
