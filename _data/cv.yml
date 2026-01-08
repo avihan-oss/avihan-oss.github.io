@@ -2,96 +2,52 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Avinash Chauhan
+    - name: Education
+      value: BS-MS in Mathematics (IISER TVM)
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Integrated BS-MS in Mathematics
+      institution: IISER Thiruvananthapuram
+      year: 2023 - Present
+      description: |
+        Current 3rd Year Student (Roll: IMS23067).
+        Focus: Mathematics, Data Science, and AI.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Winter Research Project
+      institution: IISER TVM
+      year: Dec 2025 - Jan 2026
+      description: |
+        Worked under Dr. Dharmati Sheetal on **Game Theory & Differential Equations**.
+        Analyzed Nash Equilibrium stability using Gradient and Replicator Dynamics.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Malaria Parasite Detection
+      institution: Personal Project
+      year: 2026
+      description: Designed CNN architectures for high-accuracy malaria detection using PyTorch.
+    - title: Customer Segmentation Analysis
+      institution: Personal Project
+      year: 2026
+      description: Engineered clustering models (K-Means, PCA) for customer behavior analysis.
+    - title: Prey-Predator Dynamics
+      institution: Personal Project
+      year: 2026
+      description: Modeled ecological stability using Lotka-Volterra differential equations.
 
-- title: Honors and Awards
+- title: Events & Workshops
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: LACAM 2025
+      institution: Workshop
+      year: Dec 2025
+      description: Attended the workshop on Leaky C-Integrable systems and their Applications.
