@@ -424,6 +424,11 @@ ninja.data = [{
           description: "Designing CNN architectures for high-accuracy detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/malaria_detection/";
+            },},{id: "projects-prey-predator-dynamics",
+          title: 'Prey-Predator Dynamics',
+          description: "Modeling ecological stability using Lotka-Volterra differential equations.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prey_dynamics/";
             },},{
         id: 'social-cv',
         title: 'CV',
