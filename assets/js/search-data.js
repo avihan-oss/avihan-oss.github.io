@@ -414,6 +414,11 @@ ninja.data = [{
           description: "Engineering clustering models for large-scale customer segmentation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/customer_segmentation/";
+            },},{id: "projects-game-theory-amp-dynamical-systems",
+          title: 'Game Theory &amp;amp; Dynamical Systems',
+          description: "Analyzing the stability of Nash Equilibria using Gradient, Replicator, and BNN differential dynamics.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/game_theory/";
             },},{id: "projects-malaria-parasite-detection",
           title: 'Malaria Parasite Detection',
           description: "Designing CNN architectures for high-accuracy detection.",
