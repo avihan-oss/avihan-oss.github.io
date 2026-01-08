@@ -2,7 +2,7 @@
 layout: page
 title: Malaria Parasite Detection
 description: Designing CNN architectures for high-accuracy detection.
-img: /assets/img/malaria.jpg # You can update this image path later
+img: /assets/img/malaria.jpg
 importance: 1
 category: work
 related_publications: false
