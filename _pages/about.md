@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Avinash Chauhan - IISER TVM | Mathematics & Machine Learning
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # mounts a circular profile image
+  image_circular: false
   more_info: >
-    <p>555-555-5555</p>
-    <p>test@example.com</p>
+    <p>avinashchauhan1313@gmail.com</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes post counts at the bottom of every page
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your [CV](assets/pdf/cv_example.pdf) or other pages.
+I am a student at IISER TVM specializing in Mathematics and Machine Learning. My work focuses on deep learning, numerical analysis, and stochastic processes.
 
-You can also put some math:
-$$e^{i\pi} + 1 = 0$$
+### **Technical Arsenal**
+* **Languages:** Python, C++, MATLAB, LaTeX
+* **Tools:** PyTorch, TensorFlow, Scikit-learn, Git/GitHub
+* **Interests:** Numerical Analysis, Stochastic Processes, AI Systems
+
+<div style="text-align: center;">
+  <a href="/assets/pdf/cv.pdf" target="_blank">
+    <button style="background-color:#333; color:white; padding:12px 24px; border:none; border-radius:6px; cursor:pointer;">
+      Download Full CV
+    </button>
+  </a>
+</div>
+
+---
 
 *Open to research collaborations and engineering roles for Summer 2026.*
