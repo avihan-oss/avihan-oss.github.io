@@ -1,7 +1,7 @@
 github_users:
   - avihan-oss
 github_repos:
-  - avihan-oss.github.io
-  - Malaria-Detection-CNN
-  - Lotka-Volterra-Simulation
-  - Customer-Segmentation-Analysis
+  - avihan-oss/avihan-oss.github.io
+  - avihan-oss/Malaria-Detection-CNN
+  - avihan-oss/Lotka-Volterra-Simulation
+  - avihan-oss/Customer-Segmentation-Analysis
