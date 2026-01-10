@@ -2,7 +2,7 @@
 layout: page
 title: Prey-Predator Dynamics
 description: Modeling ecological stability using Lotka-Volterra differential equations.
-img: /assets/img/prey_predator.jpg # You will need to upload an image later
+img: /assets/img/prey_predator.jpg
 importance: 4
 category: work
 ---
