@@ -40,6 +40,4 @@ My research lies at the intersection of **Game Theory**, **Differential Equation
     </button>
   </a>
 </div>
-
----
 *Open to research collaborations and engineering roles for Summer 2026.*
