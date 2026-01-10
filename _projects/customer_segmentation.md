@@ -2,7 +2,7 @@
 layout: page
 title: Customer Segmentation Analysis
 description: Engineering clustering models for large-scale customer segmentation.
-img: /assets/img/segmentation.jpg # You will need to upload an image later
+img: /assets/img/segmentation.jpg
 importance: 2
 category: work
 ---
