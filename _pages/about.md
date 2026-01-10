@@ -18,7 +18,7 @@ social: true  # Includes social icons at the bottom of the page
 
 ## **Bridging Theory & Code**
 
-I am a **Mathematics Major** at [IISER TVM](https://www.iisertvm.ac.in/), where I translate abstract mathematical theories into powerful, scalable AI systems. 
+I am a **Mathematics Major** at [IISER TVM](https://www.iisertvm.ac.in/), where I translate abstract mathematical theories into powerful, scalable AI systems.
 
 My research lies at the intersection of **Game Theory**, **Differential Equations**, and **Machine Learning**. I don't just solve equations; I build computational engines that can simulate them.
 
