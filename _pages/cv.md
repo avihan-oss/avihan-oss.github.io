@@ -1,11 +1,12 @@
 ---
-layout: page
-title: CV
+layout: cv
+template: personal
+title: cv
 permalink: /cv/
-description: 
-nav: true
-nav_order: 5
 ---
 
-<iframe src="/assets/pdf/cv.pdf" style="width:100%; height:1000px; border:none;">
-</iframe>
+# CV
+
+* **Education**: IISER TVM
+* **Skills**: Deep Learning, CNNs, Numerical Analysis
+* **Projects**: Malaria Detection, Customer Segmentation, Lotka-Volterra
